@@ -1,4 +1,7 @@
-// Find the Kth element of a list.
+/**
+ * Find the Kth element of a list.
+ * By convention, the first element in the list is element 0.
+ */
 object P03 {
 
 	// Builtin

@@ -1,4 +1,6 @@
-// Find the last element of a list.
+/**
+ * Find the last element of a list.
+ */
 object P01 {
 	
 	// Builtin

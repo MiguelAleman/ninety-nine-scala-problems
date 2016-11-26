@@ -1,4 +1,6 @@
-// Find the last but one element of a list.
+/**
+ * Find the last but one element of a list.
+ */
 object P02 {
 
 	// Builtin
