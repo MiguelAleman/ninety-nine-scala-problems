@@ -1,4 +1,5 @@
-#Ninety Nine Scala Problems
+Ninety Nine Scala Problems
+=============
 
 1. Find the last element of a list.
 2. Find the last but one element of a list.
@@ -10,3 +11,5 @@
 8. Eliminate consecutive duplicates of list elements.
 9. Pack consecutive duplicates of list elements into sublists.
 10. Run-length encoding of a list.
+11. Modified run-length encoding.
+12. Decode a run-length encoded list.
