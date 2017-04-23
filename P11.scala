@@ -4,6 +4,7 @@
  * the result list. Only elements with duplicates are transferred as (N, E) terms.
  */
 object P11 {
+	
 	def encodeModified[A](ls: List[A]): List[Any] = P10.encode(ls).map {
 		e => e match {
 			case (1, _) => e._2

@@ -1,6 +1,8 @@
 Ninety Nine Scala Problems
 =============
 
+http://aperiodic.net/phil/scala/s-99/
+
 1. Find the last element of a list.
 2. Find the last but one element of a list.
 3. Find the Kth element of a list.
@@ -13,3 +15,8 @@ Ninety Nine Scala Problems
 10. Run-length encoding of a list.
 11. Modified run-length encoding.
 12. Decode a run-length encoded list.
+13. Run-length encoding of a list (direct solution).
+14. Duplicate the elements of a list.
+15. Duplicate the elements of a list a given number of times.
+16. Drop every Nth element from a list.
+17. Split a list into two parts.
